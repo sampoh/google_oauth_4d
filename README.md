@@ -16,5 +16,5 @@ Oauth2認証にてGoogle APIを使用するための[4D](https://us.4d.com/)用�
 ( Without the configuration above, "google_oauth_json" method is required to execute to set the JSON. )
   
 ---
-認証はAPIを限定するようになっていませんが、このコンポーネント内の多くのメソッドはDrive APIに特化したものとなっています。  
+認証処理は任意のGoogle APIで使用できるようになっていますが、このコンポーネント内の多くのメソッドはDrive APIに特化したものとなっています。  
 ( Authentication method of this component is available for any Google APIs, but almost other methods are specialized for Drive API. )
