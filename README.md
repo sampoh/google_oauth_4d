@@ -10,3 +10,7 @@ Oauth2認証にてGoogle APIを使用するための4D用コンポーネント�
 "google_json" メソッドのコメント部をそのJSONの内容で上書きしてください。  
 ( Overwrite the comment of "google_json" method with the JSON from Google. )  
 ![client_id_json_paste](https://user-images.githubusercontent.com/4927926/51669201-51c16700-2007-11e9-8cb1-8c9a9a8f1e10.gif)
+  
+---
+上記作業を行わない場合は "google_oauth_json" メソッドでJSONを設定する必要があります。  
+( Without the configuration above, "google_oauth_json" method is required to execute to set the JSON. )
