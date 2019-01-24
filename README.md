@@ -17,4 +17,4 @@ Oauth2認証にてGoogle APIを使用するための[4D](https://us.4d.com/)用�
   
 ---
 認証はAPIを限定するようになっていませんが、このコンポーネント内の多くのメソッドはDrive APIに特化したものとなっています。  
-( Authentication method of this component is possible for any Google APIs, but almost other methods are specialized for Drive API. )
+( Authentication method of this component is available for any Google APIs, but almost other methods are specialized for Drive API. )
