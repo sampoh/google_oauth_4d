@@ -12,7 +12,7 @@ Oauth2認証にてGoogle APIを使用するための[4D](https://us.4d.com/)用�
 ![client_id_json_paste](https://user-images.githubusercontent.com/4927926/51669201-51c16700-2007-11e9-8cb1-8c9a9a8f1e10.gif)
   
 ---
-上記作業を行わない場合はホストアプリ内で "google_oauth_json" メソッドを実行してJSONを設定する必要があります。  
+上記作業を行わない場合はホストアプリ側で "google_oauth_json" メソッドを実行してJSONを設定する必要があります。  
 ( Without the configuration above, "google_oauth_json" method is required to execute on host application to set the JSON. )
   
 ---
