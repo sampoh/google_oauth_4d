@@ -1,5 +1,5 @@
 # google_oauth_4d
-Oauth2認証にてGoogle APIを使用するための[4D](https://us.4d.com/)用コンポーネントです。4D v16およびv17に対応しています。  
+Oauth2認証にてGoogle APIを使用するための[4D](https://jp.4d.com/)用コンポーネントです。4D v16およびv17に対応しています。  
 ( Oauth2 component for [4D](https://us.4d.com/) to use Google APIs. There are structures for 4D v16 and v17. )  
   
 ---
